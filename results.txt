@@ -1,0 +1,10 @@
+runfft script run started on Fri May  4 16:58:02 2018
+run on machine coe-ee-cad7.sjsuad.sjsu.edu
+
+Run with a clock period of 3.3
+options syn False gates False
+VCS simulation worked
+NCverilog simulation worked
+Synthesis finished OK
+Gate level simulation worked
+Completed the fft run
